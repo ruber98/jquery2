@@ -1,2 +1,5 @@
-# jquery2
-JQuery Challenge 2: Simple Madlib
+# Mission Impossible 3
+
+## Objective:
+-Generate a coded message using a madlib.
+
